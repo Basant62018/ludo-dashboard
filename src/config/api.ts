@@ -1,5 +1,5 @@
 // API Configuration
-const API_BASE_URL = import.meta.env.VITE_REACT_APP_API_URL || 'https://luto.onrender.com/api';
+const API_BASE_URL = import.meta.env.VITE_REACT_APP_API_URL || 'https://ludo-looto-server-e8av.vercel.app/api';
 
 export const apiEndpoints = {
   // Admin Authentication
